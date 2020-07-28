@@ -1,6 +1,6 @@
-# Data Science + Machine Learning Resources 
+# Data Science Reference Material 
 
-This repostiory is a central location for referencing various Data Science and Machine Learning blogs, GitHubs, publications, and other various training material. 
+This repostiory is a central location for referencing various Data Science topics ranging from blogs, GitHub repos, publications, and other various training material and books. 
 
 
 ## Machine Learning
@@ -25,6 +25,10 @@ This repostiory is a central location for referencing various Data Science and M
 - [PDF Table Extraction with Keras-RetinaNet](https://medium.com/@djajafer/pdf-table-extraction-with-keras-retinanet-173a13371e89)
 
 - [Text Classification with NLP: Tf-Idf vs Word2Vec vs BERT](https://towardsdatascience.com/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794)
+
+- [Rapids.ai (NVIDIA)](https://rapids.ai/)
+
+- [Deep Learning (Goodfellow-et-al-2016)](http://www.deeplearningbook.org/)
 
 
 ## Data Wrangling 
