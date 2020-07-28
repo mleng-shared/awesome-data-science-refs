@@ -3,7 +3,7 @@
 This repostiory is a central location for referencing various Data Science topics ranging from blogs, GitHub repos, publications, and other various training material and books. 
 
 
-## Machine Learning
+### Machine Learning
 
 - [Sktime: a Unified Python Library for Time Series Machine Learning](https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55)
 
@@ -14,7 +14,7 @@ This repostiory is a central location for referencing various Data Science topic
 - [Explain Your Model with the SHAP Values](https://towardsdatascience.com/explain-your-model-with-the-shap-values-bc36aac4de3d)
 
   
-## Deep Learning 
+### Deep Learning 
 
 - [Learning Deep Learning](https://github.com/makci97/learning-deep-learning)
 
@@ -33,7 +33,7 @@ This repostiory is a central location for referencing various Data Science topic
 - [Anomaly detection for streaming data using autoencoders](https://github.com/binli826/LSTM-Autoencoders)
 
 
-## Data Wrangling 
+### Data Wrangling 
 
 - [3 Pandas Trick to Easing Your Data Life](https://towardsdatascience.com/3-pandas-trick-to-easing-your-data-life-984a0dac5311)
 
@@ -42,17 +42,17 @@ This repostiory is a central location for referencing various Data Science topic
 - [How to rewrite your SQL queries in Python with Pandas](https://towardsdatascience.com/how-to-rewrite-your-sql-queries-in-python-with-pandas-8d5b01ab8e31)
 
 
-## GPUs
+### GPUs
 
 - [Rapids.ai (NVIDIA)](https://rapids.ai/)
 
 
-## CI/CD
+### CI/CD
 
 - [Travis CI](https://travis-ci.com/)
 
 
-## MLOps + DataOps
+### MLOps + DataOps
 
 - [Creating End-to-End MLOps pipelines using Azure ML and Azure Pipelines](https://benalexkeen.com/creating-end-to-end-mlops-pipelines-using-azure-ml-and-azure-pipelines-part-1/)
 
@@ -61,7 +61,7 @@ This repostiory is a central location for referencing various Data Science topic
 - [Pachyderm: Data Versioning, Data Pipelines, and Data Lineage](https://github.com/pachyderm/pachyderm)
 
 
-## Model Management 
+### Model Management 
 
 - [MLflow Documentation](https://mlflow.org/docs/latest/index.html)
 
@@ -70,14 +70,14 @@ This repostiory is a central location for referencing various Data Science topic
 - [Deploy MLflow with docker compose](https://towardsdatascience.com/deploy-mlflow-with-docker-compose-8059f16b6039)
 
 
-## Visualizations
+### Visualizations
 
 - [Autoviz: Automatically Visualize any Dataset](https://towardsdatascience.com/autoviz-automatically-visualize-any-dataset-ba2691a8b55a)
 
 - [Voila](https://github.com/voila-dashboards/voila)
 
 
-## Vim
+### Vim
 
 - [Vim Cheatsheet](https://vim.rtorr.com/)
 
