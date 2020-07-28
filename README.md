@@ -8,6 +8,7 @@ This repostiory is a central location for referencing various Data Science and M
 **3 Pandas Trick to Easing Your Data Life** 
   - https://towardsdatascience.com/3-pandas-trick-to-easing-your-data-life-984a0dac5311
 
+**And other links**
 
 ## GitHub
 
