@@ -1,6 +1,6 @@
 # Data Science Reference Material 
 
-This repostiory is a central location for referencing various Data Science topics ranging from blogs, GitHub repos, publications, and other various training material and books. 
+This repostiory is a central location for referencing Data Science, Deep Learning, ML Engineering, and DevOps topics gathered from various blogs, GitHub repos, publications, books, and other various learning material. 
 
 
 ### Machine Learning
