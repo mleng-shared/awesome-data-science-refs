@@ -11,6 +11,8 @@ This repostiory is a central location for referencing various Data Science topic
 
 - [GridSearchCV 2.0 — New and Improved](https://medium.com/distributed-computing-with-ray/gridsearchcv-2-0-new-and-improved-ee56644cbabf)
 
+- [Explain Your Model with the SHAP Values](https://towardsdatascience.com/explain-your-model-with-the-shap-values-bc36aac4de3d)
+
   
 ## Deep Learning 
 
@@ -27,6 +29,8 @@ This repostiory is a central location for referencing various Data Science topic
 - [Text Classification with NLP: Tf-Idf vs Word2Vec vs BERT](https://towardsdatascience.com/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794)
 
 - [Deep Learning (Goodfellow-et-al-2016)](http://www.deeplearningbook.org/)
+
+- [Anomaly detection for streaming data using autoencoders](https://github.com/binli826/LSTM-Autoencoders)
 
 
 ## Data Wrangling 
@@ -48,9 +52,13 @@ This repostiory is a central location for referencing various Data Science topic
 - [Travis CI](https://travis-ci.com/)
 
 
-## MLOps
+## MLOps + DataOps
+
+- [Creating End-to-End MLOps pipelines using Azure ML and Azure Pipelines](https://benalexkeen.com/creating-end-to-end-mlops-pipelines-using-azure-ml-and-azure-pipelines-part-1/)
 
 - [MLOps on Azure](https://github.com/microsoft/MLOps)
+
+- [Pachyderm: Data Versioning, Data Pipelines, and Data Lineage](https://github.com/pachyderm/pachyderm)
 
 
 ## Model Management 
@@ -67,3 +75,12 @@ This repostiory is a central location for referencing various Data Science topic
 - [Autoviz: Automatically Visualize any Dataset](https://towardsdatascience.com/autoviz-automatically-visualize-any-dataset-ba2691a8b55a)
 
 - [Voila](https://github.com/voila-dashboards/voila)
+
+
+## Vim
+
+- [Vim Cheatsheet](https://vim.rtorr.com/)
+
+- [Learn vim For the Last Time: A Tutorial and Primer](https://danielmiessler.com/study/vim/)
+
+- [Resolving merge conflicts with vimdiff)](http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/)
