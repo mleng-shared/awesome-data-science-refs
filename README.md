@@ -5,7 +5,7 @@ This repostiory is a central location for referencing various Data Science and M
 
 ## Medium Blog Posts
 
-- [3 Pandas Trick to Easing Your Data Life]https://towardsdatascience.com/3-pandas-trick-to-easing-your-data-life-984a0dac5311
+- [3 Pandas Trick to Easing Your Data Life](https://towardsdatascience.com/3-pandas-trick-to-easing-your-data-life-984a0dac5311)
 
 - [Do You Know Python Has A Built-In Database?](https://towardsdatascience.com/do-you-know-python-has-a-built-in-database-d553989c87bd)
 
@@ -39,4 +39,4 @@ This repostiory is a central location for referencing various Data Science and M
 
 - [Autoviz: Automatically Visualize any Dataset](https://towardsdatascience.com/autoviz-automatically-visualize-any-dataset-ba2691a8b55a)
 
--[Voila](https://github.com/voila-dashboards/voila)
+- [Voila](https://github.com/voila-dashboards/voila)
