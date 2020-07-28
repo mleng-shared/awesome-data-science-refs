@@ -26,8 +26,6 @@ This repostiory is a central location for referencing various Data Science topic
 
 - [Text Classification with NLP: Tf-Idf vs Word2Vec vs BERT](https://towardsdatascience.com/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794)
 
-- [Rapids.ai (NVIDIA)](https://rapids.ai/)
-
 - [Deep Learning (Goodfellow-et-al-2016)](http://www.deeplearningbook.org/)
 
 
@@ -38,6 +36,30 @@ This repostiory is a central location for referencing various Data Science topic
 - [Do You Know Python Has A Built-In Database?](https://towardsdatascience.com/do-you-know-python-has-a-built-in-database-d553989c87bd)
 
 - [How to rewrite your SQL queries in Python with Pandas](https://towardsdatascience.com/how-to-rewrite-your-sql-queries-in-python-with-pandas-8d5b01ab8e31)
+
+
+## GPUs
+
+- [Rapids.ai (NVIDIA)](https://rapids.ai/)
+
+
+## CI/CD
+
+- [Travis CI](https://travis-ci.com/)
+
+
+## MLOps
+
+- [MLOps on Azure](https://github.com/microsoft/MLOps)
+
+
+## Model Management 
+
+- [MLflow Documentation](https://mlflow.org/docs/latest/index.html)
+
+- [Using MLFlow and Docker to Deploy Machine Learning Models](https://medium.com/@paul.bendevis/using-mlflow-and-docker-to-deploy-machine-learning-models-4f7888005e24)
+
+- [Deploy MLflow with docker compose](https://towardsdatascience.com/deploy-mlflow-with-docker-compose-8059f16b6039)
 
 
 ## Visualizations
