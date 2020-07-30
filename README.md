@@ -7,8 +7,6 @@ _________________
 
 ### Machine Learning
 
-- [Sktime: a Unified Python Library for Time Series Machine Learning](https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55)
-
 - [The Complete Guide to AUC and Average Precision](https://towardsdatascience.com/the-complete-guide-to-auc-and-average-precision-cf1d4647efc3)
 
 - [GridSearchCV 2.0 — New and Improved](https://medium.com/distributed-computing-with-ray/gridsearchcv-2-0-new-and-improved-ee56644cbabf)
@@ -32,8 +30,6 @@ _________________
 
 - [Deep Learning (Goodfellow-et-al-2016)](http://www.deeplearningbook.org/)
 
-- [Anomaly detection for streaming data using autoencoders](https://github.com/binli826/LSTM-Autoencoders)
-
 
 ### Data Wrangling 
 
@@ -42,6 +38,15 @@ _________________
 - [Do You Know Python Has A Built-In Database?](https://towardsdatascience.com/do-you-know-python-has-a-built-in-database-d553989c87bd)
 
 - [How to rewrite your SQL queries in Python with Pandas](https://towardsdatascience.com/how-to-rewrite-your-sql-queries-in-python-with-pandas-8d5b01ab8e31)
+
+
+### Time Series
+
+- [Anomaly detection for streaming data using autoencoders](https://github.com/binli826/LSTM-Autoencoders)
+
+- [Intuitive Understanding of the Fourier Transform and FFTs](https://www.youtube.com/watch?v=FjmwwDHT98c)
+
+- [Sktime: a Unified Python Library for Time Series Machine Learning](https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55)
 
 
 ### GPUs
@@ -86,3 +91,4 @@ _________________
 - [Learn vim For the Last Time: A Tutorial and Primer](https://danielmiessler.com/study/vim/)
 
 - [Resolving merge conflicts with vimdiff)](http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/)
+
