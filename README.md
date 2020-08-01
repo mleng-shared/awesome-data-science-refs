@@ -13,6 +13,12 @@ _________________
 
 - [Explain Your Model with the SHAP Values](https://towardsdatascience.com/explain-your-model-with-the-shap-values-bc36aac4de3d)
 
+- [Houston Area Machine Learning Meetup](https://www.slideshare.net/xuyangela)
+
+- [Machine Learning in Python, SMU](https://github.com/eclarson/MachineLearningNotebooks)
+
+- [Linear Regression with NumPy](https://www.cs.toronto.edu/~frossard/post/linear_regression/)
+
   
 ### Deep Learning 
 
@@ -30,6 +36,16 @@ _________________
 
 - [Deep Learning (Goodfellow-et-al-2016)](http://www.deeplearningbook.org/)
 
+- [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
+
+- [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/neural-networks-1/)
+
+- [Variational Autoencoders Explained](http://kvfrans.com/variational-autoencoders-explained/)
+
+- [Principles of training multi-layer neural network using backpropagation](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
+
+- [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
+
 
 ### Data Wrangling 
 
@@ -38,6 +54,8 @@ _________________
 - [Do You Know Python Has A Built-In Database?](https://towardsdatascience.com/do-you-know-python-has-a-built-in-database-d553989c87bd)
 
 - [How to rewrite your SQL queries in Python with Pandas](https://towardsdatascience.com/how-to-rewrite-your-sql-queries-in-python-with-pandas-8d5b01ab8e31)
+
+- [Learn Pandas](https://github.com/tdpetrou/Learn-Pandas)
 
 
 ### Time Series
@@ -84,11 +102,15 @@ _________________
 - [Voila](https://github.com/voila-dashboards/voila)
 
 
-### Vim
+### Vim & TMUX
 
 - [Vim Cheatsheet](https://vim.rtorr.com/)
+
+- [Vim Tutorial Videos (TheFrugalComputerGuy)](https://www.youtube.com/watch?v=1xKE62tTYj4&list=PLy7Kah3WzqrEjsuvhT46fr28Q11oa5ZoI&index=25&t=0s)
 
 - [Learn vim For the Last Time: A Tutorial and Primer](https://danielmiessler.com/study/vim/)
 
 - [Resolving merge conflicts with vimdiff)](http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/)
+
+- [Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
 
