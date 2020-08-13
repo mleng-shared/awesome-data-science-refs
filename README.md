@@ -21,7 +21,7 @@ _________________
 
 - [Analyzing Customer Attrition in Subscription Models](https://databricks.com/blog/2020/07/15/analyzing-customer-attrition-in-subscription-models.html)
   
-- [Survival Analysis (Lifelines)](https://github.com/CamDavidsonPilon/lifelines
+- [Survival Analysis (Lifelines)](https://github.com/CamDavidsonPilon/lifelines)
 
 
 ### Deep Learning 
