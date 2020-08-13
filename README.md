@@ -5,7 +5,7 @@ This repostiory is a central location for referencing Data Science, Deep Learnin
 Contributions are certainly welcomed! Please feel free to submit a pull request to recommend any references that should be included in the list below.   
 _________________
 
-### Machine Learning
+### Data Science + Machine Learning
 
 - [The Complete Guide to AUC and Average Precision](https://towardsdatascience.com/the-complete-guide-to-auc-and-average-precision-cf1d4647efc3)
 
@@ -19,7 +19,11 @@ _________________
 
 - [Linear Regression with NumPy](https://www.cs.toronto.edu/~frossard/post/linear_regression/)
 
+- [Analyzing Customer Attrition in Subscription Models](https://databricks.com/blog/2020/07/15/analyzing-customer-attrition-in-subscription-models.html)
   
+- [Survival Analysis (Lifelines)](https://github.com/CamDavidsonPilon/lifelines
+
+
 ### Deep Learning 
 
 - [Learning Deep Learning](https://github.com/makci97/learning-deep-learning)
